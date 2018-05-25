@@ -1,4 +1,5 @@
 ﻿using System;
+using Classes.CustomMath;
 
 namespace Classes
 {
@@ -6,7 +7,14 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var user = new Person();
+            user.FirstName = "John";
+            user.LastName = "Doe";
+            user.Introduce();
+
+            var calc = new Calculator(); // use custom method from another namespace
+
+            Console.WriteLine(calc.Add(1, 2));
         }
     }
 }
