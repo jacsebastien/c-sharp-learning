@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/bin/Debug/netcoreapp2.0/VariablesAndConstants.deps.json
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/bin/Debug/netcoreapp2.0/VariablesAndConstants.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/bin/Debug/netcoreapp2.0/VariablesAndConstants.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/bin/Debug/netcoreapp2.0/VariablesAndConstants.dll
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/bin/Debug/netcoreapp2.0/VariablesAndConstants.pdb
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.dll
+/Users/sebastien/www/c-sharp-training/VariablesAndConstants/obj/Debug/netcoreapp2.0/VariablesAndConstants.pdb
