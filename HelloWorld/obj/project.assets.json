@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sebastien/www/c-sharp/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/sebastien/www/c-sharp-training/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/sebastien/www/c-sharp/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/sebastien/www/c-sharp-training/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/sebastien/.nuget/packages/",
-      "outputPath": "/Users/sebastien/www/c-sharp/HelloWorld/obj/",
+      "outputPath": "/Users/sebastien/www/c-sharp-training/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

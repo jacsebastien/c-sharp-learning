@@ -9,3 +9,14 @@
 /Users/sebastien/www/c-sharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
 /Users/sebastien/www/c-sharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
 /Users/sebastien/www/c-sharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/sebastien/www/c-sharp-training/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/sebastien/www/c-sharp-training/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/sebastien/www/c-sharp-training/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/sebastien/www/c-sharp-training/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
