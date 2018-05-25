@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/TypesConversions/bin/Debug/netcoreapp2.0/TypesConversions.deps.json
+/Users/sebastien/www/c-sharp-training/TypesConversions/bin/Debug/netcoreapp2.0/TypesConversions.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/TypesConversions/bin/Debug/netcoreapp2.0/TypesConversions.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/TypesConversions/bin/Debug/netcoreapp2.0/TypesConversions.dll
+/Users/sebastien/www/c-sharp-training/TypesConversions/bin/Debug/netcoreapp2.0/TypesConversions.pdb
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.dll
+/Users/sebastien/www/c-sharp-training/TypesConversions/obj/Debug/netcoreapp2.0/TypesConversions.pdb
