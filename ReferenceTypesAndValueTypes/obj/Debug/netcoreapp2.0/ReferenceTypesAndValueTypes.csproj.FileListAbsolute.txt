@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.deps.json
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.dll
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/bin/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.pdb
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.dll
+/Users/sebastien/www/c-sharp-training/ReferenceTypesAndValueTypes/obj/Debug/netcoreapp2.0/ReferenceTypesAndValueTypes.pdb
