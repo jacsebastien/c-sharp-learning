@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/Enums/bin/Debug/netcoreapp2.0/Enums.deps.json
+/Users/sebastien/www/c-sharp-training/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/Enums/bin/Debug/netcoreapp2.0/Enums.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/Enums/bin/Debug/netcoreapp2.0/Enums.dll
+/Users/sebastien/www/c-sharp-training/Enums/bin/Debug/netcoreapp2.0/Enums.pdb
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.dll
+/Users/sebastien/www/c-sharp-training/Enums/obj/Debug/netcoreapp2.0/Enums.pdb
