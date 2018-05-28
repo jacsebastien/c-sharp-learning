@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/Arrays/bin/Debug/netcoreapp2.0/Arrays.deps.json
+/Users/sebastien/www/c-sharp-training/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/Arrays/bin/Debug/netcoreapp2.0/Arrays.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/Arrays/bin/Debug/netcoreapp2.0/Arrays.dll
+/Users/sebastien/www/c-sharp-training/Arrays/bin/Debug/netcoreapp2.0/Arrays.pdb
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.dll
+/Users/sebastien/www/c-sharp-training/Arrays/obj/Debug/netcoreapp2.0/Arrays.pdb
