@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/bin/Debug/netcoreapp2.0/WorkWithRandom.deps.json
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/bin/Debug/netcoreapp2.0/WorkWithRandom.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/bin/Debug/netcoreapp2.0/WorkWithRandom.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/bin/Debug/netcoreapp2.0/WorkWithRandom.dll
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/bin/Debug/netcoreapp2.0/WorkWithRandom.pdb
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.dll
+/Users/sebastien/www/c-sharp-training/WorkWithRandom/obj/Debug/netcoreapp2.0/WorkWithRandom.pdb
