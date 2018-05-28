@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/Strings/bin/Debug/netcoreapp2.0/Strings.deps.json
+/Users/sebastien/www/c-sharp-training/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/Strings/bin/Debug/netcoreapp2.0/Strings.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/Strings/bin/Debug/netcoreapp2.0/Strings.dll
+/Users/sebastien/www/c-sharp-training/Strings/bin/Debug/netcoreapp2.0/Strings.pdb
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.dll
+/Users/sebastien/www/c-sharp-training/Strings/obj/Debug/netcoreapp2.0/Strings.pdb
