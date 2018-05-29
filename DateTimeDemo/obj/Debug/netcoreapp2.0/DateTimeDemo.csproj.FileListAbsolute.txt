@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/bin/Debug/netcoreapp2.0/DateTimeDemo.deps.json
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/bin/Debug/netcoreapp2.0/DateTimeDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/bin/Debug/netcoreapp2.0/DateTimeDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/bin/Debug/netcoreapp2.0/DateTimeDemo.dll
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/bin/Debug/netcoreapp2.0/DateTimeDemo.pdb
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.dll
+/Users/sebastien/www/c-sharp-training/DateTimeDemo/obj/Debug/netcoreapp2.0/DateTimeDemo.pdb
