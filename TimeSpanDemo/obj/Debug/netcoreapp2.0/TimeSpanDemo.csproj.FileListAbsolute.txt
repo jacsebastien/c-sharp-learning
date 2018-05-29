@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/bin/Debug/netcoreapp2.0/TimeSpanDemo.deps.json
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/bin/Debug/netcoreapp2.0/TimeSpanDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/bin/Debug/netcoreapp2.0/TimeSpanDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/bin/Debug/netcoreapp2.0/TimeSpanDemo.dll
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/bin/Debug/netcoreapp2.0/TimeSpanDemo.pdb
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.dll
+/Users/sebastien/www/c-sharp-training/TimeSpanDemo/obj/Debug/netcoreapp2.0/TimeSpanDemo.pdb
