@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/bin/Debug/netcoreapp2.0/ArraysAdvanced.deps.json
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/bin/Debug/netcoreapp2.0/ArraysAdvanced.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/bin/Debug/netcoreapp2.0/ArraysAdvanced.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/bin/Debug/netcoreapp2.0/ArraysAdvanced.dll
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/bin/Debug/netcoreapp2.0/ArraysAdvanced.pdb
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.dll
+/Users/sebastien/www/c-sharp-training/ArraysAdvanced/obj/Debug/netcoreapp2.0/ArraysAdvanced.pdb
