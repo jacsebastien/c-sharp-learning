@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/ListsDemo/bin/Debug/netcoreapp2.0/ListsDemo.deps.json
+/Users/sebastien/www/c-sharp-training/ListsDemo/bin/Debug/netcoreapp2.0/ListsDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/ListsDemo/bin/Debug/netcoreapp2.0/ListsDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/ListsDemo/bin/Debug/netcoreapp2.0/ListsDemo.dll
+/Users/sebastien/www/c-sharp-training/ListsDemo/bin/Debug/netcoreapp2.0/ListsDemo.pdb
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.dll
+/Users/sebastien/www/c-sharp-training/ListsDemo/obj/Debug/netcoreapp2.0/ListsDemo.pdb
