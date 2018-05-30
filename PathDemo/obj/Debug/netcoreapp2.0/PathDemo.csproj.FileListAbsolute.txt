@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/PathDemo/bin/Debug/netcoreapp2.0/PathDemo.deps.json
+/Users/sebastien/www/c-sharp-training/PathDemo/bin/Debug/netcoreapp2.0/PathDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/PathDemo/bin/Debug/netcoreapp2.0/PathDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/PathDemo/bin/Debug/netcoreapp2.0/PathDemo.dll
+/Users/sebastien/www/c-sharp-training/PathDemo/bin/Debug/netcoreapp2.0/PathDemo.pdb
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.dll
+/Users/sebastien/www/c-sharp-training/PathDemo/obj/Debug/netcoreapp2.0/PathDemo.pdb
