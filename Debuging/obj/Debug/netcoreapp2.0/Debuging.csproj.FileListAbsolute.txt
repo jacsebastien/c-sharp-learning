@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/Debuging/bin/Debug/netcoreapp2.0/Debuging.deps.json
+/Users/sebastien/www/c-sharp-training/Debuging/bin/Debug/netcoreapp2.0/Debuging.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/Debuging/bin/Debug/netcoreapp2.0/Debuging.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/Debuging/bin/Debug/netcoreapp2.0/Debuging.dll
+/Users/sebastien/www/c-sharp-training/Debuging/bin/Debug/netcoreapp2.0/Debuging.pdb
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.dll
+/Users/sebastien/www/c-sharp-training/Debuging/obj/Debug/netcoreapp2.0/Debuging.pdb
