@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/bin/Debug/netcoreapp2.0/StringBuilderDemo.deps.json
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/bin/Debug/netcoreapp2.0/StringBuilderDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/bin/Debug/netcoreapp2.0/StringBuilderDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/bin/Debug/netcoreapp2.0/StringBuilderDemo.dll
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/bin/Debug/netcoreapp2.0/StringBuilderDemo.pdb
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.dll
+/Users/sebastien/www/c-sharp-training/StringBuilderDemo/obj/Debug/netcoreapp2.0/StringBuilderDemo.pdb
