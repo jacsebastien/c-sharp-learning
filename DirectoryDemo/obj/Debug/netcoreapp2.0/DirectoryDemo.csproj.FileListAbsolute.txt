@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/bin/Debug/netcoreapp2.0/DirectoryDemo.deps.json
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/bin/Debug/netcoreapp2.0/DirectoryDemo.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/bin/Debug/netcoreapp2.0/DirectoryDemo.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/bin/Debug/netcoreapp2.0/DirectoryDemo.dll
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/bin/Debug/netcoreapp2.0/DirectoryDemo.pdb
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.dll
+/Users/sebastien/www/c-sharp-training/DirectoryDemo/obj/Debug/netcoreapp2.0/DirectoryDemo.pdb
