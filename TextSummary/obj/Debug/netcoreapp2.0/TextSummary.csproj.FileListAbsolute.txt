@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/TextSummary/bin/Debug/netcoreapp2.0/TextSummary.deps.json
+/Users/sebastien/www/c-sharp-training/TextSummary/bin/Debug/netcoreapp2.0/TextSummary.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/TextSummary/bin/Debug/netcoreapp2.0/TextSummary.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/TextSummary/bin/Debug/netcoreapp2.0/TextSummary.dll
+/Users/sebastien/www/c-sharp-training/TextSummary/bin/Debug/netcoreapp2.0/TextSummary.pdb
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.dll
+/Users/sebastien/www/c-sharp-training/TextSummary/obj/Debug/netcoreapp2.0/TextSummary.pdb
