@@ -1,0 +1,11 @@
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/bin/Debug/netcoreapp2.0/ProceduralProgramming.deps.json
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/bin/Debug/netcoreapp2.0/ProceduralProgramming.runtimeconfig.json
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/bin/Debug/netcoreapp2.0/ProceduralProgramming.runtimeconfig.dev.json
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/bin/Debug/netcoreapp2.0/ProceduralProgramming.dll
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/bin/Debug/netcoreapp2.0/ProceduralProgramming.pdb
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.csprojAssemblyReference.cache
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.csproj.CoreCompileInputs.cache
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.AssemblyInfoInputs.cache
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.AssemblyInfo.cs
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.dll
+/Users/sebastien/www/c-sharp-training/ProceduralProgramming/obj/Debug/netcoreapp2.0/ProceduralProgramming.pdb
